@@ -1,0 +1,25 @@
+{
+  "aeronaves": [],
+  "funcionarios": [
+    {
+      "id": 1,
+      "nome": "Yasmin",
+      "telefone": "1234403504",
+      "endereco": "pedra capim azul",
+      "usuario": "yaya",
+      "senha": "123",
+      "nivelPermissao": "Administrador"
+    },
+    {
+      "id": 2,
+      "nome": "pedro",
+      "telefone": "232455454",
+      "endereco": "limoeiro",
+      "usuario": "pedrin",
+      "senha": "123",
+      "nivelPermissao": "Operador"
+    }
+  ],
+  "etapas": [],
+  "pecas": []
+}
